@@ -1,2 +1,2 @@
-# bucketsort
+# Bucketsort
 Bucketsort Algorithm
